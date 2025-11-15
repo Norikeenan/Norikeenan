@@ -1,17 +1,16 @@
-<h1>👋 &nbsp;Hey, I'm Gabriela Pereira , a passionate Full Stack Engineer!</h1>
+<h1>👋 &nbsp;Hey, I'm Gabriela Pereira, a passionate Full Stack Engineer!</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/gabriela-pereirac/"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:felipemotarocha@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
+<a href="https://www.linkedin.com/in/felipe-rocha-034871172"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:gabypchaves@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-I'm a software engineer focused on full stack development, passionate about building scalable, modern, and well-architected solutions. I’ve worked on high-impact projects in Brazil, the UK, and the US, using technologies like TypeScript, React & React Native, Next.js, Node.js, Docker, AWS, Kafka, Kubernetes, PostgreSQL, microservices, and much more.
+I am a software engineer focused on full-stack development, passionate about building scalable, modern, well-architected, and creative solutions that help people create without difficulty.
 
-I wrote my first lines of code at age 11, when I wanted to create a private server for a game I loved at the time. After a lot of research, I finally got it online — and the feeling was magical. I realized I could customize anything just by writing code. That moment changed everything for me: I knew I wanted to become a developer.
+I wrote my first lines of code at age 14, when I wanted to create a website to post the fantasy stories I created, and I ended up discovering that I enjoy making websites.
 
-Since then, I’ve remained deeply passionate about programming and constantly strive to learn more and become a better professional every day.
+Since then, I have maintained a deep passion for programming and constantly seek to learn more and become a better professional every day, despite the difficulties. And of course, still with the goal of helping people.
 
 <h2> 🎓 &nbsp;Lifelong Learner & Educator </h2
 
