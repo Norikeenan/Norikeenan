@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Hey, I'm Gabriela pereira , a passionate Full Stack Engineer!</h1>
+<h1>👋 &nbsp;Hey, I'm Gabriela Pereira , a passionate Full Stack Engineer!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/gabriela-pereirac/"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/byfeliperocha"><img src="https://img.shields.io/badge/-My%20Professional%20IG_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
