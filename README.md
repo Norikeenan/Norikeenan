@@ -46,8 +46,7 @@ Since then, I have maintained a deep passion for programming and constantly seek
 
 ## 🇧🇷 Português <a id="portugues"></a>
 
-<h1>👋 &nbsp;Olá, eu sou Gabriela Pereira, uma apaaixonada programadora FullStack!</h1>
-
+<h1>👋 &nbsp;Olá, eu sou Gabriela Pereira, uma apaixonada programadora FullStack!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/gabriela-pereirac/"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:gabypchaves@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
